@@ -1,0 +1,8 @@
+https://hub.docker.com/r/linuxserver/bookstack
+https://www.bookstackapp.com/docs/admin/installation/#docker
+https://medium.com/@chrischuck35/how-to-create-a-mysql-instance-with-docker-compose-1598f3cc1bee
+
+
+docker compose up
+working-URL : http://localhost:6875/
+docker compose down
